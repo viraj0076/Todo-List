@@ -6,7 +6,7 @@ const EditTodoForm = ({editTodo,task}) => {
     {
         e.preventDefault();
         editTodo(value,task.id);
-        // console.log(value);
+        console.log(value);
         setValue('');
     }
 
