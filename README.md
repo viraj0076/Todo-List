@@ -1,4 +1,4 @@
-# Todo List with Edit,delete and update Functionality
+# Todo List with Create,delete and update Functionality
 ![image](https://github.com/viraj0076/Todo-List/assets/88263251/d73f2a22-4cc5-49ee-9a14-4fb481edd9dc)
 
 # Getting Started with Create React App
